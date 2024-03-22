@@ -1,0 +1,26 @@
+#title, #sub-title{
+    color: darkblue;
+    text-align: center;
+}
+
+body    {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#projects   {
+    background-color: aquamarine;
+    border-radius: 15px;
+}
+
+div > h3    {
+    padding: 20px;
+}
+
+div > img   {
+    padding-left: 80px;
+}
+
+img {
+    width: 500px;
+    height: 250px;
+}
